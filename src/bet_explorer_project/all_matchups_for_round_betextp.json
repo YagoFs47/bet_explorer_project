@@ -1,0 +1,1645 @@
+[
+    {
+        "rodada": 1,
+        "matchups": [
+            {
+                "home": "Leicester ",
+                "away": " Tottenham",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 1
+            },
+            {
+                "home": "Brentford ",
+                "away": " Crystal Palace",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 1
+            },
+            {
+                "home": "Chelsea ",
+                "away": " Manchester City",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 1
+            },
+            {
+                "home": "Arsenal ",
+                "away": " Wolves",
+                "home_score": 2,
+                "away_score": 0,
+                "round": 1
+            },
+            {
+                "home": "Everton ",
+                "away": " Brighton",
+                "home_score": 0,
+                "away_score": 3,
+                "round": 1
+            },
+            {
+                "home": "Ipswich ",
+                "away": " Liverpool",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 1
+            },
+            {
+                "home": "Newcastle ",
+                "away": " Southampton",
+                "home_score": 1,
+                "away_score": 0,
+                "round": 1
+            },
+            {
+                "home": "Nottingham ",
+                "away": " Bournemouth",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 1
+            },
+            {
+                "home": "West Ham ",
+                "away": " Aston Villa",
+                "home_score": 1,
+                "away_score": 2,
+                "round": 1
+            },
+            {
+                "home": "Manchester Utd ",
+                "away": " Fulham",
+                "home_score": 1,
+                "away_score": 0,
+                "round": 1
+            }
+        ]
+    },
+    {
+        "rodada": 2,
+        "matchups": [
+            {
+                "home": "Bournemouth ",
+                "away": " Newcastle",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 2
+            },
+            {
+                "home": "Liverpool ",
+                "away": " Brentford",
+                "home_score": 2,
+                "away_score": 0,
+                "round": 2
+            },
+            {
+                "home": "Wolves ",
+                "away": " Chelsea",
+                "home_score": 2,
+                "away_score": 6,
+                "round": 2
+            },
+            {
+                "home": "Aston Villa ",
+                "away": " Arsenal",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 2
+            },
+            {
+                "home": "Brighton ",
+                "away": " Manchester Utd",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 2
+            },
+            {
+                "home": "Crystal Palace ",
+                "away": " West Ham",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 2
+            },
+            {
+                "home": "Fulham ",
+                "away": " Leicester",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 2
+            },
+            {
+                "home": "Manchester City ",
+                "away": " Ipswich",
+                "home_score": 4,
+                "away_score": 1,
+                "round": 2
+            },
+            {
+                "home": "Southampton ",
+                "away": " Nottingham",
+                "home_score": 0,
+                "away_score": 1,
+                "round": 2
+            },
+            {
+                "home": "Tottenham ",
+                "away": " Everton",
+                "home_score": 4,
+                "away_score": 0,
+                "round": 2
+            }
+        ]
+    },
+    {
+        "rodada": 3,
+        "matchups": [
+            {
+                "home": "Chelsea ",
+                "away": " Crystal Palace",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 3
+            },
+            {
+                "home": "Manchester Utd ",
+                "away": " Liverpool",
+                "home_score": 0,
+                "away_score": 3,
+                "round": 3
+            },
+            {
+                "home": "Newcastle ",
+                "away": " Tottenham",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 3
+            },
+            {
+                "home": "Arsenal ",
+                "away": " Brighton",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 3
+            },
+            {
+                "home": "Brentford ",
+                "away": " Southampton",
+                "home_score": 3,
+                "away_score": 1,
+                "round": 3
+            },
+            {
+                "home": "Everton ",
+                "away": " Bournemouth",
+                "home_score": 2,
+                "away_score": 3,
+                "round": 3
+            },
+            {
+                "home": "Ipswich ",
+                "away": " Fulham",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 3
+            },
+            {
+                "home": "Leicester ",
+                "away": " Aston Villa",
+                "home_score": 1,
+                "away_score": 2,
+                "round": 3
+            },
+            {
+                "home": "Nottingham ",
+                "away": " Wolves",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 3
+            },
+            {
+                "home": "West Ham ",
+                "away": " Manchester City",
+                "home_score": 1,
+                "away_score": 3,
+                "round": 3
+            }
+        ]
+    },
+    {
+        "rodada": 4,
+        "matchups": [
+            {
+                "home": "Tottenham ",
+                "away": " Arsenal",
+                "home_score": 0,
+                "away_score": 1,
+                "round": 4
+            },
+            {
+                "home": "Wolves ",
+                "away": " Newcastle",
+                "home_score": 1,
+                "away_score": 2,
+                "round": 4
+            },
+            {
+                "home": "Aston Villa ",
+                "away": " Everton",
+                "home_score": 3,
+                "away_score": 2,
+                "round": 4
+            },
+            {
+                "home": "Bournemouth ",
+                "away": " Chelsea",
+                "home_score": 0,
+                "away_score": 1,
+                "round": 4
+            },
+            {
+                "home": "Brighton ",
+                "away": " Ipswich",
+                "home_score": 0,
+                "away_score": 0,
+                "round": 4
+            },
+            {
+                "home": "Crystal Palace ",
+                "away": " Leicester",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 4
+            },
+            {
+                "home": "Fulham ",
+                "away": " West Ham",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 4
+            },
+            {
+                "home": "Liverpool ",
+                "away": " Nottingham",
+                "home_score": 0,
+                "away_score": 1,
+                "round": 4
+            },
+            {
+                "home": "Manchester City ",
+                "away": " Brentford",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 4
+            },
+            {
+                "home": "Southampton ",
+                "away": " Manchester Utd",
+                "home_score": 0,
+                "away_score": 3,
+                "round": 4
+            }
+        ]
+    },
+    {
+        "rodada": 5,
+        "matchups": [
+            {
+                "home": "Brighton ",
+                "away": " Nottingham",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 5
+            },
+            {
+                "home": "Manchester City ",
+                "away": " Arsenal",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 5
+            },
+            {
+                "home": "Aston Villa ",
+                "away": " Wolves",
+                "home_score": 3,
+                "away_score": 1,
+                "round": 5
+            },
+            {
+                "home": "Crystal Palace ",
+                "away": " Manchester Utd",
+                "home_score": 0,
+                "away_score": 0,
+                "round": 5
+            },
+            {
+                "home": "Fulham ",
+                "away": " Newcastle",
+                "home_score": 3,
+                "away_score": 1,
+                "round": 5
+            },
+            {
+                "home": "Leicester ",
+                "away": " Everton",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 5
+            },
+            {
+                "home": "Liverpool ",
+                "away": " Bournemouth",
+                "home_score": 3,
+                "away_score": 0,
+                "round": 5
+            },
+            {
+                "home": "Southampton ",
+                "away": " Ipswich",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 5
+            },
+            {
+                "home": "Tottenham ",
+                "away": " Brentford",
+                "home_score": 3,
+                "away_score": 1,
+                "round": 5
+            },
+            {
+                "home": "West Ham ",
+                "away": " Chelsea",
+                "home_score": 0,
+                "away_score": 3,
+                "round": 5
+            }
+        ]
+    },
+    {
+        "rodada": 6,
+        "matchups": [
+            {
+                "home": "Bournemouth ",
+                "away": " Southampton",
+                "home_score": 3,
+                "away_score": 1,
+                "round": 6
+            },
+            {
+                "home": "Ipswich ",
+                "away": " Aston Villa",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 6
+            },
+            {
+                "home": "Manchester Utd ",
+                "away": " Tottenham",
+                "home_score": 0,
+                "away_score": 3,
+                "round": 6
+            },
+            {
+                "home": "Arsenal ",
+                "away": " Leicester",
+                "home_score": 4,
+                "away_score": 2,
+                "round": 6
+            },
+            {
+                "home": "Brentford ",
+                "away": " West Ham",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 6
+            },
+            {
+                "home": "Chelsea ",
+                "away": " Brighton",
+                "home_score": 4,
+                "away_score": 2,
+                "round": 6
+            },
+            {
+                "home": "Everton ",
+                "away": " Crystal Palace",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 6
+            },
+            {
+                "home": "Newcastle ",
+                "away": " Manchester City",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 6
+            },
+            {
+                "home": "Nottingham ",
+                "away": " Fulham",
+                "home_score": 0,
+                "away_score": 1,
+                "round": 6
+            },
+            {
+                "home": "Wolves ",
+                "away": " Liverpool",
+                "home_score": 1,
+                "away_score": 2,
+                "round": 6
+            }
+        ]
+    },
+    {
+        "rodada": 7,
+        "matchups": [
+            {
+                "home": "Aston Villa ",
+                "away": " Manchester Utd",
+                "home_score": 0,
+                "away_score": 0,
+                "round": 7
+            },
+            {
+                "home": "Brighton ",
+                "away": " Tottenham",
+                "home_score": 3,
+                "away_score": 2,
+                "round": 7
+            },
+            {
+                "home": "Chelsea ",
+                "away": " Nottingham",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 7
+            },
+            {
+                "home": "Arsenal ",
+                "away": " Southampton",
+                "home_score": 3,
+                "away_score": 1,
+                "round": 7
+            },
+            {
+                "home": "Brentford ",
+                "away": " Wolves",
+                "home_score": 5,
+                "away_score": 3,
+                "round": 7
+            },
+            {
+                "home": "Crystal Palace ",
+                "away": " Liverpool",
+                "home_score": 0,
+                "away_score": 1,
+                "round": 7
+            },
+            {
+                "home": "Everton ",
+                "away": " Newcastle",
+                "home_score": 0,
+                "away_score": 0,
+                "round": 7
+            },
+            {
+                "home": "Leicester ",
+                "away": " Bournemouth",
+                "home_score": 1,
+                "away_score": 0,
+                "round": 7
+            },
+            {
+                "home": "Manchester City ",
+                "away": " Fulham",
+                "home_score": 3,
+                "away_score": 2,
+                "round": 7
+            },
+            {
+                "home": "West Ham ",
+                "away": " Ipswich",
+                "home_score": 4,
+                "away_score": 1,
+                "round": 7
+            }
+        ]
+    },
+    {
+        "rodada": 8,
+        "matchups": [
+            {
+                "home": "Nottingham ",
+                "away": " Crystal Palace",
+                "home_score": 1,
+                "away_score": 0,
+                "round": 8
+            },
+            {
+                "home": "Liverpool ",
+                "away": " Chelsea",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 8
+            },
+            {
+                "home": "Wolves ",
+                "away": " Manchester City",
+                "home_score": 1,
+                "away_score": 2,
+                "round": 8
+            },
+            {
+                "home": "Bournemouth ",
+                "away": " Arsenal",
+                "home_score": 2,
+                "away_score": 0,
+                "round": 8
+            },
+            {
+                "home": "Fulham ",
+                "away": " Aston Villa",
+                "home_score": 1,
+                "away_score": 3,
+                "round": 8
+            },
+            {
+                "home": "Ipswich ",
+                "away": " Everton",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 8
+            },
+            {
+                "home": "Manchester Utd ",
+                "away": " Brentford",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 8
+            },
+            {
+                "home": "Newcastle ",
+                "away": " Brighton",
+                "home_score": 0,
+                "away_score": 1,
+                "round": 8
+            },
+            {
+                "home": "Southampton ",
+                "away": " Leicester",
+                "home_score": 2,
+                "away_score": 3,
+                "round": 8
+            },
+            {
+                "home": "Tottenham ",
+                "away": " West Ham",
+                "home_score": 4,
+                "away_score": 1,
+                "round": 8
+            }
+        ]
+    },
+    {
+        "rodada": 9,
+        "matchups": [
+            {
+                "home": "Arsenal ",
+                "away": " Liverpool",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 9
+            },
+            {
+                "home": "Chelsea ",
+                "away": " Newcastle",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 9
+            },
+            {
+                "home": "Crystal Palace ",
+                "away": " Tottenham",
+                "home_score": 1,
+                "away_score": 0,
+                "round": 9
+            },
+            {
+                "home": "West Ham ",
+                "away": " Manchester Utd",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 9
+            },
+            {
+                "home": "Aston Villa ",
+                "away": " Bournemouth",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 9
+            },
+            {
+                "home": "Brentford ",
+                "away": " Ipswich",
+                "home_score": 4,
+                "away_score": 3,
+                "round": 9
+            },
+            {
+                "home": "Brighton ",
+                "away": " Wolves",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 9
+            },
+            {
+                "home": "Everton ",
+                "away": " Fulham",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 9
+            },
+            {
+                "home": "Manchester City ",
+                "away": " Southampton",
+                "home_score": 1,
+                "away_score": 0,
+                "round": 9
+            },
+            {
+                "home": "Leicester ",
+                "away": " Nottingham",
+                "home_score": 1,
+                "away_score": 3,
+                "round": 9
+            }
+        ]
+    },
+    {
+        "rodada": 10,
+        "matchups": [
+            {
+                "home": "Fulham ",
+                "away": " Brentford",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 10
+            },
+            {
+                "home": "Manchester Utd ",
+                "away": " Chelsea",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 10
+            },
+            {
+                "home": "Tottenham ",
+                "away": " Aston Villa",
+                "home_score": 4,
+                "away_score": 1,
+                "round": 10
+            },
+            {
+                "home": "Bournemouth ",
+                "away": " Manchester City",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 10
+            },
+            {
+                "home": "Ipswich ",
+                "away": " Leicester",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 10
+            },
+            {
+                "home": "Liverpool ",
+                "away": " Brighton",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 10
+            },
+            {
+                "home": "Newcastle ",
+                "away": " Arsenal",
+                "home_score": 1,
+                "away_score": 0,
+                "round": 10
+            },
+            {
+                "home": "Nottingham ",
+                "away": " West Ham",
+                "home_score": 3,
+                "away_score": 0,
+                "round": 10
+            },
+            {
+                "home": "Southampton ",
+                "away": " Everton",
+                "home_score": 1,
+                "away_score": 0,
+                "round": 10
+            },
+            {
+                "home": "Wolves ",
+                "away": " Crystal Palace",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 10
+            }
+        ]
+    },
+    {
+        "rodada": 11,
+        "matchups": [
+            {
+                "home": "Chelsea ",
+                "away": " Arsenal",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 11
+            },
+            {
+                "home": "Manchester Utd ",
+                "away": " Leicester",
+                "home_score": 3,
+                "away_score": 0,
+                "round": 11
+            },
+            {
+                "home": "Nottingham ",
+                "away": " Newcastle",
+                "home_score": 1,
+                "away_score": 3,
+                "round": 11
+            },
+            {
+                "home": "Tottenham ",
+                "away": " Ipswich",
+                "home_score": 1,
+                "away_score": 2,
+                "round": 11
+            },
+            {
+                "home": "Brentford ",
+                "away": " Bournemouth",
+                "home_score": 3,
+                "away_score": 2,
+                "round": 11
+            },
+            {
+                "home": "Brighton ",
+                "away": " Manchester City",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 11
+            },
+            {
+                "home": "Crystal Palace ",
+                "away": " Fulham",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 11
+            },
+            {
+                "home": "Liverpool ",
+                "away": " Aston Villa",
+                "home_score": 2,
+                "away_score": 0,
+                "round": 11
+            },
+            {
+                "home": "West Ham ",
+                "away": " Everton",
+                "home_score": 0,
+                "away_score": 0,
+                "round": 11
+            },
+            {
+                "home": "Wolves ",
+                "away": " Southampton",
+                "home_score": 2,
+                "away_score": 0,
+                "round": 11
+            }
+        ]
+    },
+    {
+        "rodada": 12,
+        "matchups": [
+            {
+                "home": "Newcastle ",
+                "away": " West Ham",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 12
+            },
+            {
+                "home": "Ipswich ",
+                "away": " Manchester Utd",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 12
+            },
+            {
+                "home": "Southampton ",
+                "away": " Liverpool",
+                "home_score": 2,
+                "away_score": 3,
+                "round": 12
+            },
+            {
+                "home": "Arsenal ",
+                "away": " Nottingham",
+                "home_score": 3,
+                "away_score": 0,
+                "round": 12
+            },
+            {
+                "home": "Aston Villa ",
+                "away": " Crystal Palace",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 12
+            },
+            {
+                "home": "Bournemouth ",
+                "away": " Brighton",
+                "home_score": 1,
+                "away_score": 2,
+                "round": 12
+            },
+            {
+                "home": "Everton ",
+                "away": " Brentford",
+                "home_score": 0,
+                "away_score": 0,
+                "round": 12
+            },
+            {
+                "home": "Fulham ",
+                "away": " Wolves",
+                "home_score": 1,
+                "away_score": 4,
+                "round": 12
+            },
+            {
+                "home": "Leicester ",
+                "away": " Chelsea",
+                "home_score": 1,
+                "away_score": 2,
+                "round": 12
+            },
+            {
+                "home": "Manchester City ",
+                "away": " Tottenham",
+                "home_score": 0,
+                "away_score": 4,
+                "round": 12
+            }
+        ]
+    },
+    {
+        "rodada": 13,
+        "matchups": [
+            {
+                "home": "Chelsea ",
+                "away": " Aston Villa",
+                "home_score": 3,
+                "away_score": 0,
+                "round": 13
+            },
+            {
+                "home": "Liverpool ",
+                "away": " Manchester City",
+                "home_score": 2,
+                "away_score": 0,
+                "round": 13
+            },
+            {
+                "home": "Manchester Utd ",
+                "away": " Everton",
+                "home_score": 4,
+                "away_score": 0,
+                "round": 13
+            },
+            {
+                "home": "Tottenham ",
+                "away": " Fulham",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 13
+            },
+            {
+                "home": "Brentford ",
+                "away": " Leicester",
+                "home_score": 4,
+                "away_score": 1,
+                "round": 13
+            },
+            {
+                "home": "Crystal Palace ",
+                "away": " Newcastle",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 13
+            },
+            {
+                "home": "Nottingham ",
+                "away": " Ipswich",
+                "home_score": 1,
+                "away_score": 0,
+                "round": 13
+            },
+            {
+                "home": "West Ham ",
+                "away": " Arsenal",
+                "home_score": 2,
+                "away_score": 5,
+                "round": 13
+            },
+            {
+                "home": "Wolves ",
+                "away": " Bournemouth",
+                "home_score": 2,
+                "away_score": 4,
+                "round": 13
+            },
+            {
+                "home": "Brighton ",
+                "away": " Southampton",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 13
+            }
+        ]
+    },
+    {
+        "rodada": 14,
+        "matchups": [
+            {
+                "home": "Bournemouth ",
+                "away": " Tottenham",
+                "home_score": 1,
+                "away_score": 0,
+                "round": 14
+            },
+            {
+                "home": "Fulham ",
+                "away": " Brighton",
+                "home_score": 3,
+                "away_score": 1,
+                "round": 14
+            },
+            {
+                "home": "Arsenal ",
+                "away": " Manchester Utd",
+                "home_score": 2,
+                "away_score": 0,
+                "round": 14
+            },
+            {
+                "home": "Aston Villa ",
+                "away": " Brentford",
+                "home_score": 3,
+                "away_score": 1,
+                "round": 14
+            },
+            {
+                "home": "Everton ",
+                "away": " Wolves",
+                "home_score": 4,
+                "away_score": 0,
+                "round": 14
+            },
+            {
+                "home": "Manchester City ",
+                "away": " Nottingham",
+                "home_score": 3,
+                "away_score": 0,
+                "round": 14
+            },
+            {
+                "home": "Newcastle ",
+                "away": " Liverpool",
+                "home_score": 3,
+                "away_score": 3,
+                "round": 14
+            },
+            {
+                "home": "Southampton ",
+                "away": " Chelsea",
+                "home_score": 1,
+                "away_score": 5,
+                "round": 14
+            },
+            {
+                "home": "Ipswich ",
+                "away": " Crystal Palace",
+                "home_score": 0,
+                "away_score": 1,
+                "round": 14
+            },
+            {
+                "home": "Leicester ",
+                "away": " West Ham",
+                "home_score": 3,
+                "away_score": 1,
+                "round": 14
+            }
+        ]
+    },
+    {
+        "rodada": 15,
+        "matchups": [
+            {
+                "home": "West Ham ",
+                "away": " Wolves",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 15
+            },
+            {
+                "home": "Fulham ",
+                "away": " Arsenal",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 15
+            },
+            {
+                "home": "Ipswich ",
+                "away": " Bournemouth",
+                "home_score": 1,
+                "away_score": 2,
+                "round": 15
+            },
+            {
+                "home": "Leicester ",
+                "away": " Brighton",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 15
+            },
+            {
+                "home": "Tottenham ",
+                "away": " Chelsea",
+                "home_score": 3,
+                "away_score": 4,
+                "round": 15
+            },
+            {
+                "home": "Aston Villa ",
+                "away": " Southampton",
+                "home_score": 1,
+                "away_score": 0,
+                "round": 15
+            },
+            {
+                "home": "Brentford ",
+                "away": " Newcastle",
+                "home_score": 4,
+                "away_score": 2,
+                "round": 15
+            },
+            {
+                "home": "Crystal Palace ",
+                "away": " Manchester City",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 15
+            },
+            {
+                "home": "Manchester Utd ",
+                "away": " Nottingham",
+                "home_score": 2,
+                "away_score": 3,
+                "round": 15
+            }
+        ]
+    },
+    {
+        "rodada": 16,
+        "matchups": [
+            {
+                "home": "Bournemouth ",
+                "away": " West Ham",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 16
+            },
+            {
+                "home": "Brighton ",
+                "away": " Crystal Palace",
+                "home_score": 1,
+                "away_score": 3,
+                "round": 16
+            },
+            {
+                "home": "Chelsea ",
+                "away": " Brentford",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 16
+            },
+            {
+                "home": "Manchester City ",
+                "away": " Manchester Utd",
+                "home_score": 1,
+                "away_score": 2,
+                "round": 16
+            },
+            {
+                "home": "Southampton ",
+                "away": " Tottenham",
+                "home_score": 0,
+                "away_score": 5,
+                "round": 16
+            },
+            {
+                "home": "Arsenal ",
+                "away": " Everton",
+                "home_score": 0,
+                "away_score": 0,
+                "round": 16
+            },
+            {
+                "home": "Liverpool ",
+                "away": " Fulham",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 16
+            },
+            {
+                "home": "Newcastle ",
+                "away": " Leicester",
+                "home_score": 4,
+                "away_score": 0,
+                "round": 16
+            },
+            {
+                "home": "Nottingham ",
+                "away": " Aston Villa",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 16
+            },
+            {
+                "home": "Wolves ",
+                "away": " Ipswich",
+                "home_score": 1,
+                "away_score": 2,
+                "round": 16
+            }
+        ]
+    },
+    {
+        "rodada": 17,
+        "matchups": [
+            {
+                "home": "Everton ",
+                "away": " Chelsea",
+                "home_score": 0,
+                "away_score": 0,
+                "round": 17
+            },
+            {
+                "home": "Fulham ",
+                "away": " Southampton",
+                "home_score": 0,
+                "away_score": 0,
+                "round": 17
+            },
+            {
+                "home": "Leicester ",
+                "away": " Wolves",
+                "home_score": 0,
+                "away_score": 3,
+                "round": 17
+            },
+            {
+                "home": "Manchester Utd ",
+                "away": " Bournemouth",
+                "home_score": 0,
+                "away_score": 3,
+                "round": 17
+            },
+            {
+                "home": "Tottenham ",
+                "away": " Liverpool",
+                "home_score": 3,
+                "away_score": 6,
+                "round": 17
+            },
+            {
+                "home": "Aston Villa ",
+                "away": " Manchester City",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 17
+            },
+            {
+                "home": "Brentford ",
+                "away": " Nottingham",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 17
+            },
+            {
+                "home": "Crystal Palace ",
+                "away": " Arsenal",
+                "home_score": 1,
+                "away_score": 5,
+                "round": 17
+            },
+            {
+                "home": "Ipswich ",
+                "away": " Newcastle",
+                "home_score": 0,
+                "away_score": 4,
+                "round": 17
+            },
+            {
+                "home": "West Ham ",
+                "away": " Brighton",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 17
+            }
+        ]
+    },
+    {
+        "rodada": 18,
+        "matchups": [
+            {
+                "home": "Arsenal ",
+                "away": " Ipswich",
+                "home_score": 1,
+                "away_score": 0,
+                "round": 18
+            },
+            {
+                "home": "Brighton ",
+                "away": " Brentford",
+                "home_score": 0,
+                "away_score": 0,
+                "round": 18
+            },
+            {
+                "home": "Bournemouth ",
+                "away": " Crystal Palace",
+                "home_score": 0,
+                "away_score": 0,
+                "round": 18
+            },
+            {
+                "home": "Chelsea ",
+                "away": " Fulham",
+                "home_score": 1,
+                "away_score": 2,
+                "round": 18
+            },
+            {
+                "home": "Liverpool ",
+                "away": " Leicester",
+                "home_score": 3,
+                "away_score": 1,
+                "round": 18
+            },
+            {
+                "home": "Manchester City ",
+                "away": " Everton",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 18
+            },
+            {
+                "home": "Newcastle ",
+                "away": " Aston Villa",
+                "home_score": 3,
+                "away_score": 0,
+                "round": 18
+            },
+            {
+                "home": "Nottingham ",
+                "away": " Tottenham",
+                "home_score": 1,
+                "away_score": 0,
+                "round": 18
+            },
+            {
+                "home": "Southampton ",
+                "away": " West Ham",
+                "home_score": 0,
+                "away_score": 1,
+                "round": 18
+            },
+            {
+                "home": "Wolves ",
+                "away": " Manchester Utd",
+                "home_score": 2,
+                "away_score": 0,
+                "round": 18
+            }
+        ]
+    },
+    {
+        "rodada": 19,
+        "matchups": [
+            {
+                "home": "Brentford ",
+                "away": " Arsenal",
+                "home_score": 1,
+                "away_score": 3,
+                "round": 19
+            },
+            {
+                "home": "Aston Villa ",
+                "away": " Brighton",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 19
+            },
+            {
+                "home": "Ipswich ",
+                "away": " Chelsea",
+                "home_score": 2,
+                "away_score": 0,
+                "round": 19
+            },
+            {
+                "home": "Manchester Utd ",
+                "away": " Newcastle",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 19
+            },
+            {
+                "home": "Crystal Palace ",
+                "away": " Southampton",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 19
+            },
+            {
+                "home": "Everton ",
+                "away": " Nottingham",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 19
+            },
+            {
+                "home": "Fulham ",
+                "away": " Bournemouth",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 19
+            },
+            {
+                "home": "Leicester ",
+                "away": " Manchester City",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 19
+            },
+            {
+                "home": "Tottenham ",
+                "away": " Wolves",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 19
+            },
+            {
+                "home": "West Ham ",
+                "away": " Liverpool",
+                "home_score": 0,
+                "away_score": 5,
+                "round": 19
+            }
+        ]
+    },
+    {
+        "rodada": 20,
+        "matchups": [
+            {
+                "home": "Wolves ",
+                "away": " Nottingham",
+                "home_score": 0,
+                "away_score": 3,
+                "round": 20
+            },
+            {
+                "home": "Fulham ",
+                "away": " Ipswich",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 20
+            },
+            {
+                "home": "Liverpool ",
+                "away": " Manchester Utd",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 20
+            },
+            {
+                "home": "Aston Villa ",
+                "away": " Leicester",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 20
+            },
+            {
+                "home": "Bournemouth ",
+                "away": " Everton",
+                "home_score": 1,
+                "away_score": 0,
+                "round": 20
+            },
+            {
+                "home": "Brighton ",
+                "away": " Arsenal",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 20
+            },
+            {
+                "home": "Crystal Palace ",
+                "away": " Chelsea",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 20
+            },
+            {
+                "home": "Manchester City ",
+                "away": " West Ham",
+                "home_score": 4,
+                "away_score": 1,
+                "round": 20
+            },
+            {
+                "home": "Southampton ",
+                "away": " Brentford",
+                "home_score": 0,
+                "away_score": 5,
+                "round": 20
+            },
+            {
+                "home": "Tottenham ",
+                "away": " Newcastle",
+                "home_score": 1,
+                "away_score": 2,
+                "round": 20
+            }
+        ]
+    },
+    {
+        "rodada": 21,
+        "matchups": [
+            {
+                "home": "Ipswich ",
+                "away": " Brighton",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 21
+            },
+            {
+                "home": "Manchester Utd ",
+                "away": " Southampton",
+                "home_score": 3,
+                "away_score": 1,
+                "round": 21
+            },
+            {
+                "home": "Arsenal ",
+                "away": " Tottenham",
+                "home_score": 2,
+                "away_score": 1,
+                "round": 21
+            },
+            {
+                "home": "Everton ",
+                "away": " Aston Villa",
+                "home_score": 0,
+                "away_score": 1,
+                "round": 21
+            },
+            {
+                "home": "Leicester ",
+                "away": " Crystal Palace",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 21
+            },
+            {
+                "home": "Newcastle ",
+                "away": " Wolves",
+                "home_score": 3,
+                "away_score": 0,
+                "round": 21
+            },
+            {
+                "home": "Brentford ",
+                "away": " Manchester City",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 21
+            },
+            {
+                "home": "Chelsea ",
+                "away": " Bournemouth",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 21
+            },
+            {
+                "home": "Nottingham ",
+                "away": " Liverpool",
+                "home_score": 1,
+                "away_score": 1,
+                "round": 21
+            },
+            {
+                "home": "West Ham ",
+                "away": " Fulham",
+                "home_score": 3,
+                "away_score": 2,
+                "round": 21
+            }
+        ]
+    },
+    {
+        "rodada": 22,
+        "matchups": [
+            {
+                "home": "Chelsea ",
+                "away": " Wolves",
+                "home_score": 3,
+                "away_score": 1,
+                "round": 22
+            },
+            {
+                "home": "Everton ",
+                "away": " Tottenham",
+                "home_score": 3,
+                "away_score": 2,
+                "round": 22
+            },
+            {
+                "home": "Ipswich ",
+                "away": " Manchester City",
+                "home_score": 0,
+                "away_score": 6,
+                "round": 22
+            },
+            {
+                "home": "Manchester Utd ",
+                "away": " Brighton",
+                "home_score": 1,
+                "away_score": 3,
+                "round": 22
+            },
+            {
+                "home": "Nottingham ",
+                "away": " Southampton",
+                "home_score": 3,
+                "away_score": 2,
+                "round": 22
+            },
+            {
+                "home": "Arsenal ",
+                "away": " Aston Villa",
+                "home_score": 2,
+                "away_score": 2,
+                "round": 22
+            },
+            {
+                "home": "Brentford ",
+                "away": " Liverpool",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 22
+            },
+            {
+                "home": "Leicester ",
+                "away": " Fulham",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 22
+            },
+            {
+                "home": "Newcastle ",
+                "away": " Bournemouth",
+                "home_score": 1,
+                "away_score": 4,
+                "round": 22
+            },
+            {
+                "home": "West Ham ",
+                "away": " Crystal Palace",
+                "home_score": 0,
+                "away_score": 2,
+                "round": 22
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "urls": [
+        "https://www.betexplorer.com/br/football/england/premier-league/results/;https://fbref.com/pt/comps/9/cronograma/Premier-League-Resultados-e-Calendarios",
+        "https://www.betexplorer.com/br/football/germany/bundesliga/results/;https://fbref.com/pt/comps/20/cronograma/Bundesliga-Resultados-e-Calendarios",
+        "https://www.betexplorer.com/br/football/france/ligue-1/results/;https://fbref.com/pt/comps/13/cronograma/Ligue-1-Resultados-e-Calendarios",
+        "https://www.betexplorer.com/br/football/spain/laliga/results/;https://fbref.com/pt/comps/12/cronograma/La-Liga-Resultados-e-Calendarios",
+        "https://www.betexplorer.com/br/football/italy/serie-a/results/;https://fbref.com/pt/comps/11/cronograma/Serie-A-Resultados-e-Calendarios"
+    ],
+    "urls_only_betxplorer": [
+        "https://www.betexplorer.com/br/football/germany/2-bundesliga/results/",
+        "https://www.betexplorer.com/br/football/england/championship/results/",
+        "https://www.betexplorer.com/br/football/germany/2-bundesliga/results/",
+        "https://www.betexplorer.com/br/football/argentina/torneo-betano/results/",
+        "https://www.betexplorer.com/br/football/spain/laliga/results/",
+        "https://www.betexplorer.com/br/football/portugal/liga-portugal/results/",
+        "https://www.betexplorer.com/br/football/germany/bundesliga/results/",
+        "https://www.betexplorer.com/br/football/germany/2-bundesliga/results/",
+        "https://www.betexplorer.com/br/football/argentina/torneo-betano/results/",
+        "https://www.betexplorer.com/br/football/france/ligue-1/results/",
+        "https://www.betexplorer.com/br/football/italy/serie-a/results/",
+        "https://www.betexplorer.com/br/football/england/premier-league/results/",
+        "https://www.betexplorer.com/br/football/netherlands/eredivisie/results/",
+        "https://www.betexplorer.com/br/football/chile/liga-de-primera/results/",
+        "https://www.betexplorer.com/br/football/argentina/torneo-betano/results/"
+    ]
+}

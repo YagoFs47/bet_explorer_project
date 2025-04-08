@@ -1,0 +1,1864 @@
+[
+    {
+        "rodada": "1",
+        "matchups": [
+            {
+                "game_week": "1",
+                "score": "1\u20130",
+                "home_team": "Manchester Utd",
+                "away_team": "Fulham",
+                "xg_home_team": "2.4",
+                "xg_away_team": "0.4"
+            },
+            {
+                "game_week": "1",
+                "score": "0\u20132",
+                "home_team": "Ipswich Town",
+                "away_team": "Liverpool",
+                "xg_home_team": "0.5",
+                "xg_away_team": "2.6"
+            },
+            {
+                "game_week": "1",
+                "score": "1\u20130",
+                "home_team": "Newcastle Utd",
+                "away_team": "Southampton",
+                "xg_home_team": "0.3",
+                "xg_away_team": "1.8"
+            },
+            {
+                "game_week": "1",
+                "score": "1\u20131",
+                "home_team": "Nott'ham Forest",
+                "away_team": "Bournemouth",
+                "xg_home_team": "1.3",
+                "xg_away_team": "1.2"
+            },
+            {
+                "game_week": "1",
+                "score": "0\u20133",
+                "home_team": "Everton",
+                "away_team": "Brighton",
+                "xg_home_team": "0.5",
+                "xg_away_team": "1.4"
+            },
+            {
+                "game_week": "1",
+                "score": "2\u20130",
+                "home_team": "Arsenal",
+                "away_team": "Wolves",
+                "xg_home_team": "1.2",
+                "xg_away_team": "0.5"
+            },
+            {
+                "game_week": "1",
+                "score": "1\u20132",
+                "home_team": "West Ham",
+                "away_team": "Aston Villa",
+                "xg_home_team": "2.3",
+                "xg_away_team": "2.0"
+            },
+            {
+                "game_week": "1",
+                "score": "2\u20131",
+                "home_team": "Brentford",
+                "away_team": "Crystal Palace",
+                "xg_home_team": "1.6",
+                "xg_away_team": "1.2"
+            },
+            {
+                "game_week": "1",
+                "score": "0\u20132",
+                "home_team": "Chelsea",
+                "away_team": "Manchester City",
+                "xg_home_team": "1.0",
+                "xg_away_team": "0.8"
+            },
+            {
+                "game_week": "1",
+                "score": "1\u20131",
+                "home_team": "Leicester City",
+                "away_team": "Tottenham",
+                "xg_home_team": "1.0",
+                "xg_away_team": "1.2"
+            }
+        ]
+    },
+    {
+        "rodada": "2",
+        "matchups": [
+            {
+                "game_week": "2",
+                "score": "2\u20131",
+                "home_team": "Brighton",
+                "away_team": "Manchester Utd",
+                "xg_home_team": "2.1",
+                "xg_away_team": "1.4"
+            },
+            {
+                "game_week": "2",
+                "score": "4\u20130",
+                "home_team": "Tottenham",
+                "away_team": "Everton",
+                "xg_home_team": "2.4",
+                "xg_away_team": "1.0"
+            },
+            {
+                "game_week": "2",
+                "score": "2\u20131",
+                "home_team": "Fulham",
+                "away_team": "Leicester City",
+                "xg_home_team": "1.8",
+                "xg_away_team": "0.6"
+            },
+            {
+                "game_week": "2",
+                "score": "0\u20132",
+                "home_team": "Crystal Palace",
+                "away_team": "West Ham",
+                "xg_home_team": "1.3",
+                "xg_away_team": "1.4"
+            },
+            {
+                "game_week": "2",
+                "score": "4\u20131",
+                "home_team": "Manchester City",
+                "away_team": "Ipswich Town",
+                "xg_home_team": "3.3",
+                "xg_away_team": "0.3"
+            },
+            {
+                "game_week": "2",
+                "score": "0\u20131",
+                "home_team": "Southampton",
+                "away_team": "Nott'ham Forest",
+                "xg_home_team": "0.1",
+                "xg_away_team": "2.2"
+            },
+            {
+                "game_week": "2",
+                "score": "0\u20132",
+                "home_team": "Aston Villa",
+                "away_team": "Arsenal",
+                "xg_home_team": "1.2",
+                "xg_away_team": "0.9"
+            },
+            {
+                "game_week": "2",
+                "score": "1\u20131",
+                "home_team": "Bournemouth",
+                "away_team": "Newcastle Utd",
+                "xg_home_team": "2.2",
+                "xg_away_team": "1.6"
+            },
+            {
+                "game_week": "2",
+                "score": "2\u20136",
+                "home_team": "Wolves",
+                "away_team": "Chelsea",
+                "xg_home_team": "1.9",
+                "xg_away_team": "1.6"
+            },
+            {
+                "game_week": "2",
+                "score": "2\u20130",
+                "home_team": "Liverpool",
+                "away_team": "Brentford",
+                "xg_home_team": "2.5",
+                "xg_away_team": "0.5"
+            }
+        ]
+    },
+    {
+        "rodada": "3",
+        "matchups": [
+            {
+                "game_week": "3",
+                "score": "1\u20131",
+                "home_team": "Arsenal",
+                "away_team": "Brighton",
+                "xg_home_team": "2.1",
+                "xg_away_team": "1.7"
+            },
+            {
+                "game_week": "3",
+                "score": "2\u20133",
+                "home_team": "Everton",
+                "away_team": "Bournemouth",
+                "xg_home_team": "1.8",
+                "xg_away_team": "2.4"
+            },
+            {
+                "game_week": "3",
+                "score": "1\u20132",
+                "home_team": "Leicester City",
+                "away_team": "Aston Villa",
+                "xg_home_team": "0.4",
+                "xg_away_team": "1.4"
+            },
+            {
+                "game_week": "3",
+                "score": "1\u20131",
+                "home_team": "Nott'ham Forest",
+                "away_team": "Wolves",
+                "xg_home_team": "1.0",
+                "xg_away_team": "0.7"
+            },
+            {
+                "game_week": "3",
+                "score": "1\u20131",
+                "home_team": "Ipswich Town",
+                "away_team": "Fulham",
+                "xg_home_team": "0.4",
+                "xg_away_team": "0.9"
+            },
+            {
+                "game_week": "3",
+                "score": "3\u20131",
+                "home_team": "Brentford",
+                "away_team": "Southampton",
+                "xg_home_team": "2.8",
+                "xg_away_team": "1.5"
+            },
+            {
+                "game_week": "3",
+                "score": "1\u20133",
+                "home_team": "West Ham",
+                "away_team": "Manchester City",
+                "xg_home_team": "0.7",
+                "xg_away_team": "3.0"
+            },
+            {
+                "game_week": "3",
+                "score": "2\u20131",
+                "home_team": "Newcastle Utd",
+                "away_team": "Tottenham",
+                "xg_home_team": "1.8",
+                "xg_away_team": "1.2"
+            },
+            {
+                "game_week": "3",
+                "score": "1\u20131",
+                "home_team": "Chelsea",
+                "away_team": "Crystal Palace",
+                "xg_home_team": "2.4",
+                "xg_away_team": "0.5"
+            },
+            {
+                "game_week": "3",
+                "score": "0\u20133",
+                "home_team": "Manchester Utd",
+                "away_team": "Liverpool",
+                "xg_home_team": "1.4",
+                "xg_away_team": "1.8"
+            }
+        ]
+    },
+    {
+        "rodada": "4",
+        "matchups": [
+            {
+                "game_week": "4",
+                "score": "0\u20133",
+                "home_team": "Southampton",
+                "away_team": "Manchester Utd",
+                "xg_home_team": "1.1",
+                "xg_away_team": "2.6"
+            },
+            {
+                "game_week": "4",
+                "score": "0\u20130",
+                "home_team": "Brighton",
+                "away_team": "Ipswich Town",
+                "xg_home_team": "1.6",
+                "xg_away_team": "0.3"
+            },
+            {
+                "game_week": "4",
+                "score": "2\u20132",
+                "home_team": "Crystal Palace",
+                "away_team": "Leicester City",
+                "xg_home_team": "2.5",
+                "xg_away_team": "1.2"
+            },
+            {
+                "game_week": "4",
+                "score": "2\u20131",
+                "home_team": "Manchester City",
+                "away_team": "Brentford",
+                "xg_home_team": "2.1",
+                "xg_away_team": "1.0"
+            },
+            {
+                "game_week": "4",
+                "score": "0\u20131",
+                "home_team": "Liverpool",
+                "away_team": "Nott'ham Forest",
+                "xg_home_team": "0.9",
+                "xg_away_team": "0.4"
+            },
+            {
+                "game_week": "4",
+                "score": "1\u20131",
+                "home_team": "Fulham",
+                "away_team": "West Ham",
+                "xg_home_team": "1.5",
+                "xg_away_team": "0.8"
+            },
+            {
+                "game_week": "4",
+                "score": "3\u20132",
+                "home_team": "Aston Villa",
+                "away_team": "Everton",
+                "xg_home_team": "2.1",
+                "xg_away_team": "0.9"
+            },
+            {
+                "game_week": "4",
+                "score": "0\u20131",
+                "home_team": "Bournemouth",
+                "away_team": "Chelsea",
+                "xg_home_team": "1.7",
+                "xg_away_team": "0.8"
+            },
+            {
+                "game_week": "4",
+                "score": "0\u20131",
+                "home_team": "Tottenham",
+                "away_team": "Arsenal",
+                "xg_home_team": "0.7",
+                "xg_away_team": "0.7"
+            },
+            {
+                "game_week": "4",
+                "score": "1\u20132",
+                "home_team": "Wolves",
+                "away_team": "Newcastle Utd",
+                "xg_home_team": "1.2",
+                "xg_away_team": "1.5"
+            }
+        ]
+    },
+    {
+        "rodada": "5",
+        "matchups": [
+            {
+                "game_week": "5",
+                "score": "0\u20133",
+                "home_team": "West Ham",
+                "away_team": "Chelsea",
+                "xg_home_team": "0.9",
+                "xg_away_team": "2.2"
+            },
+            {
+                "game_week": "5",
+                "score": "3\u20130",
+                "home_team": "Liverpool",
+                "away_team": "Bournemouth",
+                "xg_home_team": "2.0",
+                "xg_away_team": "1.1"
+            },
+            {
+                "game_week": "5",
+                "score": "1\u20131",
+                "home_team": "Leicester City",
+                "away_team": "Everton",
+                "xg_home_team": "0.7",
+                "xg_away_team": "1.1"
+            },
+            {
+                "game_week": "5",
+                "score": "1\u20131",
+                "home_team": "Southampton",
+                "away_team": "Ipswich Town",
+                "xg_home_team": "2.4",
+                "xg_away_team": "1.6"
+            },
+            {
+                "game_week": "5",
+                "score": "3\u20131",
+                "home_team": "Tottenham",
+                "away_team": "Brentford",
+                "xg_home_team": "3.5",
+                "xg_away_team": "0.8"
+            },
+            {
+                "game_week": "5",
+                "score": "3\u20131",
+                "home_team": "Fulham",
+                "away_team": "Newcastle Utd",
+                "xg_home_team": "2.2",
+                "xg_away_team": "1.5"
+            },
+            {
+                "game_week": "5",
+                "score": "3\u20131",
+                "home_team": "Aston Villa",
+                "away_team": "Wolves",
+                "xg_home_team": "1.7",
+                "xg_away_team": "0.5"
+            },
+            {
+                "game_week": "5",
+                "score": "0\u20130",
+                "home_team": "Crystal Palace",
+                "away_team": "Manchester Utd",
+                "xg_home_team": "1.0",
+                "xg_away_team": "1.6"
+            },
+            {
+                "game_week": "5",
+                "score": "2\u20132",
+                "home_team": "Brighton",
+                "away_team": "Nott'ham Forest",
+                "xg_home_team": "1.0",
+                "xg_away_team": "1.4"
+            },
+            {
+                "game_week": "5",
+                "score": "2\u20132",
+                "home_team": "Manchester City",
+                "away_team": "Arsenal",
+                "xg_home_team": "2.1",
+                "xg_away_team": "0.7"
+            }
+        ]
+    },
+    {
+        "rodada": "6",
+        "matchups": [
+            {
+                "game_week": "6",
+                "score": "1\u20131",
+                "home_team": "Newcastle Utd",
+                "away_team": "Manchester City",
+                "xg_home_team": "1.6",
+                "xg_away_team": "0.9"
+            },
+            {
+                "game_week": "6",
+                "score": "4\u20132",
+                "home_team": "Chelsea",
+                "away_team": "Brighton",
+                "xg_home_team": "4.2",
+                "xg_away_team": "1.1"
+            },
+            {
+                "game_week": "6",
+                "score": "4\u20132",
+                "home_team": "Arsenal",
+                "away_team": "Leicester City",
+                "xg_home_team": "4.4",
+                "xg_away_team": "0.3"
+            },
+            {
+                "game_week": "6",
+                "score": "1\u20131",
+                "home_team": "Brentford",
+                "away_team": "West Ham",
+                "xg_home_team": "0.4",
+                "xg_away_team": "1.0"
+            },
+            {
+                "game_week": "6",
+                "score": "2\u20131",
+                "home_team": "Everton",
+                "away_team": "Crystal Palace",
+                "xg_home_team": "0.9",
+                "xg_away_team": "0.9"
+            },
+            {
+                "game_week": "6",
+                "score": "0\u20131",
+                "home_team": "Nott'ham Forest",
+                "away_team": "Fulham",
+                "xg_home_team": "0.8",
+                "xg_away_team": "1.3"
+            },
+            {
+                "game_week": "6",
+                "score": "1\u20132",
+                "home_team": "Wolves",
+                "away_team": "Liverpool",
+                "xg_home_team": "0.6",
+                "xg_away_team": "2.5"
+            },
+            {
+                "game_week": "6",
+                "score": "2\u20132",
+                "home_team": "Ipswich Town",
+                "away_team": "Aston Villa",
+                "xg_home_team": "1.2",
+                "xg_away_team": "0.8"
+            },
+            {
+                "game_week": "6",
+                "score": "0\u20133",
+                "home_team": "Manchester Utd",
+                "away_team": "Tottenham",
+                "xg_home_team": "1.0",
+                "xg_away_team": "4.4"
+            },
+            {
+                "game_week": "6",
+                "score": "3\u20131",
+                "home_team": "Bournemouth",
+                "away_team": "Southampton",
+                "xg_home_team": "1.3",
+                "xg_away_team": "0.6"
+            }
+        ]
+    },
+    {
+        "rodada": "7",
+        "matchups": [
+            {
+                "game_week": "7",
+                "score": "0\u20131",
+                "home_team": "Crystal Palace",
+                "away_team": "Liverpool",
+                "xg_home_team": "0.6",
+                "xg_away_team": "1.4"
+            },
+            {
+                "game_week": "7",
+                "score": "3\u20132",
+                "home_team": "Manchester City",
+                "away_team": "Fulham",
+                "xg_home_team": "1.6",
+                "xg_away_team": "2.6"
+            },
+            {
+                "game_week": "7",
+                "score": "5\u20133",
+                "home_team": "Brentford",
+                "away_team": "Wolves",
+                "xg_home_team": "4.2",
+                "xg_away_team": "1.0"
+            },
+            {
+                "game_week": "7",
+                "score": "4\u20131",
+                "home_team": "West Ham",
+                "away_team": "Ipswich Town",
+                "xg_home_team": "3.6",
+                "xg_away_team": "0.6"
+            },
+            {
+                "game_week": "7",
+                "score": "3\u20131",
+                "home_team": "Arsenal",
+                "away_team": "Southampton",
+                "xg_home_team": "2.8",
+                "xg_away_team": "0.6"
+            },
+            {
+                "game_week": "7",
+                "score": "1\u20130",
+                "home_team": "Leicester City",
+                "away_team": "Bournemouth",
+                "xg_home_team": "0.8",
+                "xg_away_team": "2.1"
+            },
+            {
+                "game_week": "7",
+                "score": "0\u20130",
+                "home_team": "Everton",
+                "away_team": "Newcastle Utd",
+                "xg_home_team": "0.7",
+                "xg_away_team": "2.1"
+            },
+            {
+                "game_week": "7",
+                "score": "0\u20130",
+                "home_team": "Aston Villa",
+                "away_team": "Manchester Utd",
+                "xg_home_team": "0.5",
+                "xg_away_team": "0.6"
+            },
+            {
+                "game_week": "7",
+                "score": "1\u20131",
+                "home_team": "Chelsea",
+                "away_team": "Nott'ham Forest",
+                "xg_home_team": "2.3",
+                "xg_away_team": "0.9"
+            },
+            {
+                "game_week": "7",
+                "score": "3\u20132",
+                "home_team": "Brighton",
+                "away_team": "Tottenham",
+                "xg_home_team": "1.8",
+                "xg_away_team": "1.3"
+            }
+        ]
+    },
+    {
+        "rodada": "8",
+        "matchups": [
+            {
+                "game_week": "8",
+                "score": "4\u20131",
+                "home_team": "Tottenham",
+                "away_team": "West Ham",
+                "xg_home_team": "1.9",
+                "xg_away_team": "0.8"
+            },
+            {
+                "game_week": "8",
+                "score": "2\u20133",
+                "home_team": "Southampton",
+                "away_team": "Leicester City",
+                "xg_home_team": "2.1",
+                "xg_away_team": "3.1"
+            },
+            {
+                "game_week": "8",
+                "score": "0\u20132",
+                "home_team": "Ipswich Town",
+                "away_team": "Everton",
+                "xg_home_team": "1.3",
+                "xg_away_team": "1.7"
+            },
+            {
+                "game_week": "8",
+                "score": "0\u20131",
+                "home_team": "Newcastle Utd",
+                "away_team": "Brighton",
+                "xg_home_team": "2.0",
+                "xg_away_team": "1.1"
+            },
+            {
+                "game_week": "8",
+                "score": "1\u20133",
+                "home_team": "Fulham",
+                "away_team": "Aston Villa",
+                "xg_home_team": "1.8",
+                "xg_away_team": "1.6"
+            },
+            {
+                "game_week": "8",
+                "score": "2\u20131",
+                "home_team": "Manchester Utd",
+                "away_team": "Brentford",
+                "xg_home_team": "1.3",
+                "xg_away_team": "0.9"
+            },
+            {
+                "game_week": "8",
+                "score": "2\u20130",
+                "home_team": "Bournemouth",
+                "away_team": "Arsenal",
+                "xg_home_team": "1.8",
+                "xg_away_team": "0.7"
+            },
+            {
+                "game_week": "8",
+                "score": "1\u20132",
+                "home_team": "Wolves",
+                "away_team": "Manchester City",
+                "xg_home_team": "0.8",
+                "xg_away_team": "1.6"
+            },
+            {
+                "game_week": "8",
+                "score": "2\u20131",
+                "home_team": "Liverpool",
+                "away_team": "Chelsea",
+                "xg_home_team": "1.9",
+                "xg_away_team": "1.0"
+            },
+            {
+                "game_week": "8",
+                "score": "1\u20130",
+                "home_team": "Nott'ham Forest",
+                "away_team": "Crystal Palace",
+                "xg_home_team": "1.7",
+                "xg_away_team": "1.0"
+            }
+        ]
+    },
+    {
+        "rodada": "9",
+        "matchups": [
+            {
+                "game_week": "9",
+                "score": "1\u20133",
+                "home_team": "Leicester City",
+                "away_team": "Nott'ham Forest",
+                "xg_home_team": "0.8",
+                "xg_away_team": "1.7"
+            },
+            {
+                "game_week": "9",
+                "score": "4\u20133",
+                "home_team": "Brentford",
+                "away_team": "Ipswich Town",
+                "xg_home_team": "4.0",
+                "xg_away_team": "1.3"
+            },
+            {
+                "game_week": "9",
+                "score": "2\u20132",
+                "home_team": "Brighton",
+                "away_team": "Wolves",
+                "xg_home_team": "1.3",
+                "xg_away_team": "1.3"
+            },
+            {
+                "game_week": "9",
+                "score": "1\u20130",
+                "home_team": "Manchester City",
+                "away_team": "Southampton",
+                "xg_home_team": "2.9",
+                "xg_away_team": "0.2"
+            },
+            {
+                "game_week": "9",
+                "score": "1\u20131",
+                "home_team": "Aston Villa",
+                "away_team": "Bournemouth",
+                "xg_home_team": "1.8",
+                "xg_away_team": "0.3"
+            },
+            {
+                "game_week": "9",
+                "score": "1\u20131",
+                "home_team": "Everton",
+                "away_team": "Fulham",
+                "xg_home_team": "0.8",
+                "xg_away_team": "1.2"
+            },
+            {
+                "game_week": "9",
+                "score": "2\u20131",
+                "home_team": "Chelsea",
+                "away_team": "Newcastle Utd",
+                "xg_home_team": "1.6",
+                "xg_away_team": "1.8"
+            },
+            {
+                "game_week": "9",
+                "score": "2\u20131",
+                "home_team": "West Ham",
+                "away_team": "Manchester Utd",
+                "xg_home_team": "2.8",
+                "xg_away_team": "2.3"
+            },
+            {
+                "game_week": "9",
+                "score": "1\u20130",
+                "home_team": "Crystal Palace",
+                "away_team": "Tottenham",
+                "xg_home_team": "0.8",
+                "xg_away_team": "0.7"
+            },
+            {
+                "game_week": "9",
+                "score": "2\u20132",
+                "home_team": "Arsenal",
+                "away_team": "Liverpool",
+                "xg_home_team": "0.9",
+                "xg_away_team": "0.8"
+            }
+        ]
+    },
+    {
+        "rodada": "10",
+        "matchups": [
+            {
+                "game_week": "10",
+                "score": "1\u20130",
+                "home_team": "Newcastle Utd",
+                "away_team": "Arsenal",
+                "xg_home_team": "0.5",
+                "xg_away_team": "1.1"
+            },
+            {
+                "game_week": "10",
+                "score": "1\u20130",
+                "home_team": "Southampton",
+                "away_team": "Everton",
+                "xg_home_team": "0.7",
+                "xg_away_team": "1.6"
+            },
+            {
+                "game_week": "10",
+                "score": "2\u20131",
+                "home_team": "Liverpool",
+                "away_team": "Brighton",
+                "xg_home_team": "1.6",
+                "xg_away_team": "1.0"
+            },
+            {
+                "game_week": "10",
+                "score": "3\u20130",
+                "home_team": "Nott'ham Forest",
+                "away_team": "West Ham",
+                "xg_home_team": "2.2",
+                "xg_away_team": "0.1"
+            },
+            {
+                "game_week": "10",
+                "score": "1\u20131",
+                "home_team": "Ipswich Town",
+                "away_team": "Leicester City",
+                "xg_home_team": "1.0",
+                "xg_away_team": "1.5"
+            },
+            {
+                "game_week": "10",
+                "score": "2\u20131",
+                "home_team": "Bournemouth",
+                "away_team": "Manchester City",
+                "xg_home_team": "2.0",
+                "xg_away_team": "1.6"
+            },
+            {
+                "game_week": "10",
+                "score": "2\u20132",
+                "home_team": "Wolves",
+                "away_team": "Crystal Palace",
+                "xg_home_team": "1.5",
+                "xg_away_team": "2.4"
+            },
+            {
+                "game_week": "10",
+                "score": "4\u20131",
+                "home_team": "Tottenham",
+                "away_team": "Aston Villa",
+                "xg_home_team": "2.4",
+                "xg_away_team": "1.8"
+            },
+            {
+                "game_week": "10",
+                "score": "1\u20131",
+                "home_team": "Manchester Utd",
+                "away_team": "Chelsea",
+                "xg_home_team": "2.0",
+                "xg_away_team": "1.1"
+            },
+            {
+                "game_week": "10",
+                "score": "2\u20131",
+                "home_team": "Fulham",
+                "away_team": "Brentford",
+                "xg_home_team": "1.3",
+                "xg_away_team": "0.6"
+            }
+        ]
+    },
+    {
+        "rodada": "11",
+        "matchups": [
+            {
+                "game_week": "11",
+                "score": "3\u20132",
+                "home_team": "Brentford",
+                "away_team": "Bournemouth",
+                "xg_home_team": "1.5",
+                "xg_away_team": "2.6"
+            },
+            {
+                "game_week": "11",
+                "score": "0\u20130",
+                "home_team": "West Ham",
+                "away_team": "Everton",
+                "xg_home_team": "0.8",
+                "xg_away_team": "1.1"
+            },
+            {
+                "game_week": "11",
+                "score": "0\u20132",
+                "home_team": "Crystal Palace",
+                "away_team": "Fulham",
+                "xg_home_team": "1.5",
+                "xg_away_team": "1.8"
+            },
+            {
+                "game_week": "11",
+                "score": "2\u20130",
+                "home_team": "Wolves",
+                "away_team": "Southampton",
+                "xg_home_team": "1.3",
+                "xg_away_team": "0.6"
+            },
+            {
+                "game_week": "11",
+                "score": "2\u20131",
+                "home_team": "Brighton",
+                "away_team": "Manchester City",
+                "xg_home_team": "2.3",
+                "xg_away_team": "2.1"
+            },
+            {
+                "game_week": "11",
+                "score": "2\u20130",
+                "home_team": "Liverpool",
+                "away_team": "Aston Villa",
+                "xg_home_team": "2.0",
+                "xg_away_team": "1.2"
+            },
+            {
+                "game_week": "11",
+                "score": "3\u20130",
+                "home_team": "Manchester Utd",
+                "away_team": "Leicester City",
+                "xg_home_team": "0.8",
+                "xg_away_team": "0.6"
+            },
+            {
+                "game_week": "11",
+                "score": "1\u20133",
+                "home_team": "Nott'ham Forest",
+                "away_team": "Newcastle Utd",
+                "xg_home_team": "0.6",
+                "xg_away_team": "1.6"
+            },
+            {
+                "game_week": "11",
+                "score": "1\u20132",
+                "home_team": "Tottenham",
+                "away_team": "Ipswich Town",
+                "xg_home_team": "1.5",
+                "xg_away_team": "1.6"
+            },
+            {
+                "game_week": "11",
+                "score": "1\u20131",
+                "home_team": "Chelsea",
+                "away_team": "Arsenal",
+                "xg_home_team": "1.5",
+                "xg_away_team": "1.5"
+            }
+        ]
+    },
+    {
+        "rodada": "12",
+        "matchups": [
+            {
+                "game_week": "12",
+                "score": "1\u20132",
+                "home_team": "Leicester City",
+                "away_team": "Chelsea",
+                "xg_home_team": "1.1",
+                "xg_away_team": "2.7"
+            },
+            {
+                "game_week": "12",
+                "score": "3\u20130",
+                "home_team": "Arsenal",
+                "away_team": "Nott'ham Forest",
+                "xg_home_team": "1.2",
+                "xg_away_team": "0.3"
+            },
+            {
+                "game_week": "12",
+                "score": "1\u20132",
+                "home_team": "Bournemouth",
+                "away_team": "Brighton",
+                "xg_home_team": "1.6",
+                "xg_away_team": "0.9"
+            },
+            {
+                "game_week": "12",
+                "score": "2\u20132",
+                "home_team": "Aston Villa",
+                "away_team": "Crystal Palace",
+                "xg_home_team": "3.0",
+                "xg_away_team": "1.3"
+            },
+            {
+                "game_week": "12",
+                "score": "0\u20130",
+                "home_team": "Everton",
+                "away_team": "Brentford",
+                "xg_home_team": "1.2",
+                "xg_away_team": "1.1"
+            },
+            {
+                "game_week": "12",
+                "score": "1\u20134",
+                "home_team": "Fulham",
+                "away_team": "Wolves",
+                "xg_home_team": "1.0",
+                "xg_away_team": "1.3"
+            },
+            {
+                "game_week": "12",
+                "score": "0\u20134",
+                "home_team": "Manchester City",
+                "away_team": "Tottenham",
+                "xg_home_team": "2.1",
+                "xg_away_team": "2.5"
+            },
+            {
+                "game_week": "12",
+                "score": "2\u20133",
+                "home_team": "Southampton",
+                "away_team": "Liverpool",
+                "xg_home_team": "1.3",
+                "xg_away_team": "3.1"
+            },
+            {
+                "game_week": "12",
+                "score": "1\u20131",
+                "home_team": "Ipswich Town",
+                "away_team": "Manchester Utd",
+                "xg_home_team": "1.6",
+                "xg_away_team": "0.8"
+            },
+            {
+                "game_week": "12",
+                "score": "0\u20132",
+                "home_team": "Newcastle Utd",
+                "away_team": "West Ham",
+                "xg_home_team": "1.6",
+                "xg_away_team": "0.9"
+            }
+        ]
+    },
+    {
+        "rodada": "13",
+        "matchups": [
+            {
+                "game_week": "13",
+                "score": "1\u20131",
+                "home_team": "Brighton",
+                "away_team": "Southampton",
+                "xg_home_team": "1.7",
+                "xg_away_team": "1.0"
+            },
+            {
+                "game_week": "13",
+                "score": "1\u20131",
+                "home_team": "Crystal Palace",
+                "away_team": "Newcastle Utd",
+                "xg_home_team": "1.7",
+                "xg_away_team": "0.0"
+            },
+            {
+                "game_week": "13",
+                "score": "2\u20134",
+                "home_team": "Wolves",
+                "away_team": "Bournemouth",
+                "xg_home_team": "0.5",
+                "xg_away_team": "3.3"
+            },
+            {
+                "game_week": "13",
+                "score": "1\u20130",
+                "home_team": "Nott'ham Forest",
+                "away_team": "Ipswich Town",
+                "xg_home_team": "1.6",
+                "xg_away_team": "0.6"
+            },
+            {
+                "game_week": "13",
+                "score": "4\u20131",
+                "home_team": "Brentford",
+                "away_team": "Leicester City",
+                "xg_home_team": "2.4",
+                "xg_away_team": "1.1"
+            },
+            {
+                "game_week": "13",
+                "score": "2\u20135",
+                "home_team": "West Ham",
+                "away_team": "Arsenal",
+                "xg_home_team": "1.5",
+                "xg_away_team": "3.5"
+            },
+            {
+                "game_week": "13",
+                "score": "3\u20130",
+                "home_team": "Chelsea",
+                "away_team": "Aston Villa",
+                "xg_home_team": "1.6",
+                "xg_away_team": "1.2"
+            },
+            {
+                "game_week": "13",
+                "score": "1\u20131",
+                "home_team": "Tottenham",
+                "away_team": "Fulham",
+                "xg_home_team": "0.8",
+                "xg_away_team": "1.5"
+            },
+            {
+                "game_week": "13",
+                "score": "4\u20130",
+                "home_team": "Manchester Utd",
+                "away_team": "Everton",
+                "xg_home_team": "1.1",
+                "xg_away_team": "0.6"
+            },
+            {
+                "game_week": "13",
+                "score": "2\u20130",
+                "home_team": "Liverpool",
+                "away_team": "Manchester City",
+                "xg_home_team": "3.4",
+                "xg_away_team": "0.8"
+            }
+        ]
+    },
+    {
+        "rodada": "14",
+        "matchups": [
+            {
+                "game_week": "14",
+                "score": "0\u20131",
+                "home_team": "Ipswich Town",
+                "away_team": "Crystal Palace",
+                "xg_home_team": "0.5",
+                "xg_away_team": "1.6"
+            },
+            {
+                "game_week": "14",
+                "score": "3\u20131",
+                "home_team": "Leicester City",
+                "away_team": "West Ham",
+                "xg_home_team": "1.7",
+                "xg_away_team": "3.0"
+            },
+            {
+                "game_week": "14",
+                "score": "4\u20130",
+                "home_team": "Everton",
+                "away_team": "Wolves",
+                "xg_home_team": "1.0",
+                "xg_away_team": "0.8"
+            },
+            {
+                "game_week": "14",
+                "score": "3\u20133",
+                "home_team": "Newcastle Utd",
+                "away_team": "Liverpool",
+                "xg_home_team": "2.1",
+                "xg_away_team": "1.9"
+            },
+            {
+                "game_week": "14",
+                "score": "3\u20130",
+                "home_team": "Manchester City",
+                "away_team": "Nott'ham Forest",
+                "xg_home_team": "2.4",
+                "xg_away_team": "1.0"
+            },
+            {
+                "game_week": "14",
+                "score": "1\u20135",
+                "home_team": "Southampton",
+                "away_team": "Chelsea",
+                "xg_home_team": "1.6",
+                "xg_away_team": "5.2"
+            },
+            {
+                "game_week": "14",
+                "score": "2\u20130",
+                "home_team": "Arsenal",
+                "away_team": "Manchester Utd",
+                "xg_home_team": "2.1",
+                "xg_away_team": "0.2"
+            },
+            {
+                "game_week": "14",
+                "score": "3\u20131",
+                "home_team": "Aston Villa",
+                "away_team": "Brentford",
+                "xg_home_team": "2.4",
+                "xg_away_team": "0.9"
+            },
+            {
+                "game_week": "14",
+                "score": "3\u20131",
+                "home_team": "Fulham",
+                "away_team": "Brighton",
+                "xg_home_team": "1.1",
+                "xg_away_team": "1.4"
+            },
+            {
+                "game_week": "14",
+                "score": "1\u20130",
+                "home_team": "Bournemouth",
+                "away_team": "Tottenham",
+                "xg_home_team": "3.5",
+                "xg_away_team": "0.9"
+            }
+        ]
+    },
+    {
+        "rodada": "15",
+        "matchups": [
+            {
+                "game_week": "15",
+                "score": "4\u20132",
+                "home_team": "Brentford",
+                "away_team": "Newcastle Utd",
+                "xg_home_team": "1.2",
+                "xg_away_team": "1.5"
+            },
+            {
+                "game_week": "15",
+                "score": "2\u20132",
+                "home_team": "Crystal Palace",
+                "away_team": "Manchester City",
+                "xg_home_team": "1.3",
+                "xg_away_team": "1.4"
+            },
+            {
+                "game_week": "15",
+                "score": "1\u20130",
+                "home_team": "Aston Villa",
+                "away_team": "Southampton",
+                "xg_home_team": "2.3",
+                "xg_away_team": "0.3"
+            },
+            {
+                "game_week": "15",
+                "score": "2\u20133",
+                "home_team": "Manchester Utd",
+                "away_team": "Nott'ham Forest",
+                "xg_home_team": "1.6",
+                "xg_away_team": "0.8"
+            },
+            {
+                "game_week": "15",
+                "score": "1\u20131",
+                "home_team": "Fulham",
+                "away_team": "Arsenal",
+                "xg_home_team": "0.2",
+                "xg_away_team": "1.8"
+            },
+            {
+                "game_week": "15",
+                "score": "1\u20132",
+                "home_team": "Ipswich Town",
+                "away_team": "Bournemouth",
+                "xg_home_team": "1.3",
+                "xg_away_team": "3.2"
+            },
+            {
+                "game_week": "15",
+                "score": "2\u20132",
+                "home_team": "Leicester City",
+                "away_team": "Brighton",
+                "xg_home_team": "1.3",
+                "xg_away_team": "1.5"
+            },
+            {
+                "game_week": "15",
+                "score": "3\u20134",
+                "home_team": "Tottenham",
+                "away_team": "Chelsea",
+                "xg_home_team": "2.8",
+                "xg_away_team": "2.8"
+            },
+            {
+                "game_week": "15",
+                "score": "2\u20131",
+                "home_team": "West Ham",
+                "away_team": "Wolves",
+                "xg_home_team": "1.0",
+                "xg_away_team": "1.4"
+            }
+        ]
+    },
+    {
+        "rodada": "16",
+        "matchups": [
+            {
+                "game_week": "16",
+                "score": "4\u20130",
+                "home_team": "Newcastle Utd",
+                "away_team": "Leicester City",
+                "xg_home_team": "3.8",
+                "xg_away_team": "0.2"
+            },
+            {
+                "game_week": "16",
+                "score": "0\u20130",
+                "home_team": "Arsenal",
+                "away_team": "Everton",
+                "xg_home_team": "1.2",
+                "xg_away_team": "0.1"
+            },
+            {
+                "game_week": "16",
+                "score": "1\u20132",
+                "home_team": "Wolves",
+                "away_team": "Ipswich Town",
+                "xg_home_team": "1.3",
+                "xg_away_team": "1.1"
+            },
+            {
+                "game_week": "16",
+                "score": "2\u20132",
+                "home_team": "Liverpool",
+                "away_team": "Fulham",
+                "xg_home_team": "2.1",
+                "xg_away_team": "1.2"
+            },
+            {
+                "game_week": "16",
+                "score": "2\u20131",
+                "home_team": "Nott'ham Forest",
+                "away_team": "Aston Villa",
+                "xg_home_team": "1.7",
+                "xg_away_team": "0.4"
+            },
+            {
+                "game_week": "16",
+                "score": "1\u20133",
+                "home_team": "Brighton",
+                "away_team": "Crystal Palace",
+                "xg_home_team": "1.0",
+                "xg_away_team": "2.2"
+            },
+            {
+                "game_week": "16",
+                "score": "1\u20132",
+                "home_team": "Manchester City",
+                "away_team": "Manchester Utd",
+                "xg_home_team": "0.9",
+                "xg_away_team": "2.1"
+            },
+            {
+                "game_week": "16",
+                "score": "0\u20135",
+                "home_team": "Southampton",
+                "away_team": "Tottenham",
+                "xg_home_team": "0.8",
+                "xg_away_team": "2.3"
+            },
+            {
+                "game_week": "16",
+                "score": "2\u20131",
+                "home_team": "Chelsea",
+                "away_team": "Brentford",
+                "xg_home_team": "2.2",
+                "xg_away_team": "1.6"
+            },
+            {
+                "game_week": "16",
+                "score": "1\u20131",
+                "home_team": "Bournemouth",
+                "away_team": "West Ham",
+                "xg_home_team": "1.9",
+                "xg_away_team": "2.1"
+            }
+        ]
+    },
+    {
+        "rodada": "17",
+        "matchups": [
+            {
+                "game_week": "17",
+                "score": "2\u20131",
+                "home_team": "Aston Villa",
+                "away_team": "Manchester City",
+                "xg_home_team": "1.6",
+                "xg_away_team": "1.0"
+            },
+            {
+                "game_week": "17",
+                "score": "1\u20131",
+                "home_team": "West Ham",
+                "away_team": "Brighton",
+                "xg_home_team": "1.2",
+                "xg_away_team": "0.9"
+            },
+            {
+                "game_week": "17",
+                "score": "0\u20132",
+                "home_team": "Brentford",
+                "away_team": "Nott'ham Forest",
+                "xg_home_team": "0.7",
+                "xg_away_team": "0.9"
+            },
+            {
+                "game_week": "17",
+                "score": "0\u20134",
+                "home_team": "Ipswich Town",
+                "away_team": "Newcastle Utd",
+                "xg_home_team": "0.7",
+                "xg_away_team": "2.3"
+            },
+            {
+                "game_week": "17",
+                "score": "1\u20135",
+                "home_team": "Crystal Palace",
+                "away_team": "Arsenal",
+                "xg_home_team": "1.6",
+                "xg_away_team": "2.5"
+            },
+            {
+                "game_week": "17",
+                "score": "0\u20133",
+                "home_team": "Manchester Utd",
+                "away_team": "Bournemouth",
+                "xg_home_team": "2.2",
+                "xg_away_team": "1.6"
+            },
+            {
+                "game_week": "17",
+                "score": "0\u20130",
+                "home_team": "Fulham",
+                "away_team": "Southampton",
+                "xg_home_team": "0.9",
+                "xg_away_team": "0.3"
+            },
+            {
+                "game_week": "17",
+                "score": "0\u20130",
+                "home_team": "Everton",
+                "away_team": "Chelsea",
+                "xg_home_team": "1.0",
+                "xg_away_team": "1.2"
+            },
+            {
+                "game_week": "17",
+                "score": "0\u20133",
+                "home_team": "Leicester City",
+                "away_team": "Wolves",
+                "xg_home_team": "0.8",
+                "xg_away_team": "1.1"
+            },
+            {
+                "game_week": "17",
+                "score": "3\u20136",
+                "home_team": "Tottenham",
+                "away_team": "Liverpool",
+                "xg_home_team": "1.3",
+                "xg_away_team": "5.6"
+            }
+        ]
+    },
+    {
+        "rodada": "18",
+        "matchups": [
+            {
+                "game_week": "18",
+                "score": "1\u20131",
+                "home_team": "Manchester City",
+                "away_team": "Everton",
+                "xg_home_team": "2.1",
+                "xg_away_team": "0.7"
+            },
+            {
+                "game_week": "18",
+                "score": "1\u20132",
+                "home_team": "Chelsea",
+                "away_team": "Fulham",
+                "xg_home_team": "1.1",
+                "xg_away_team": "1.8"
+            },
+            {
+                "game_week": "18",
+                "score": "0\u20131",
+                "home_team": "Southampton",
+                "away_team": "West Ham",
+                "xg_home_team": "1.4",
+                "xg_away_team": "1.7"
+            },
+            {
+                "game_week": "18",
+                "score": "0\u20130",
+                "home_team": "Bournemouth",
+                "away_team": "Crystal Palace",
+                "xg_home_team": "1.4",
+                "xg_away_team": "0.4"
+            },
+            {
+                "game_week": "18",
+                "score": "3\u20130",
+                "home_team": "Newcastle Utd",
+                "away_team": "Aston Villa",
+                "xg_home_team": "2.7",
+                "xg_away_team": "0.3"
+            },
+            {
+                "game_week": "18",
+                "score": "1\u20130",
+                "home_team": "Nott'ham Forest",
+                "away_team": "Tottenham",
+                "xg_home_team": "1.1",
+                "xg_away_team": "0.9"
+            },
+            {
+                "game_week": "18",
+                "score": "2\u20130",
+                "home_team": "Wolves",
+                "away_team": "Manchester Utd",
+                "xg_home_team": "0.9",
+                "xg_away_team": "0.4"
+            },
+            {
+                "game_week": "18",
+                "score": "3\u20131",
+                "home_team": "Liverpool",
+                "away_team": "Leicester City",
+                "xg_home_team": "2.0",
+                "xg_away_team": "0.3"
+            },
+            {
+                "game_week": "18",
+                "score": "0\u20130",
+                "home_team": "Brighton",
+                "away_team": "Brentford",
+                "xg_home_team": "1.3",
+                "xg_away_team": "1.1"
+            },
+            {
+                "game_week": "18",
+                "score": "1\u20130",
+                "home_team": "Arsenal",
+                "away_team": "Ipswich Town",
+                "xg_home_team": "1.8",
+                "xg_away_team": "0.2"
+            }
+        ]
+    },
+    {
+        "rodada": "19",
+        "matchups": [
+            {
+                "game_week": "19",
+                "score": "0\u20132",
+                "home_team": "Leicester City",
+                "away_team": "Manchester City",
+                "xg_home_team": "1.3",
+                "xg_away_team": "1.3"
+            },
+            {
+                "game_week": "19",
+                "score": "2\u20132",
+                "home_team": "Tottenham",
+                "away_team": "Wolves",
+                "xg_home_team": "2.2",
+                "xg_away_team": "0.7"
+            },
+            {
+                "game_week": "19",
+                "score": "2\u20132",
+                "home_team": "Fulham",
+                "away_team": "Bournemouth",
+                "xg_home_team": "1.1",
+                "xg_away_team": "2.0"
+            },
+            {
+                "game_week": "19",
+                "score": "0\u20132",
+                "home_team": "Everton",
+                "away_team": "Nott'ham Forest",
+                "xg_home_team": "0.9",
+                "xg_away_team": "1.5"
+            },
+            {
+                "game_week": "19",
+                "score": "2\u20131",
+                "home_team": "Crystal Palace",
+                "away_team": "Southampton",
+                "xg_home_team": "2.0",
+                "xg_away_team": "0.9"
+            },
+            {
+                "game_week": "19",
+                "score": "0\u20135",
+                "home_team": "West Ham",
+                "away_team": "Liverpool",
+                "xg_home_team": "0.4",
+                "xg_away_team": "3.1"
+            },
+            {
+                "game_week": "19",
+                "score": "2\u20132",
+                "home_team": "Aston Villa",
+                "away_team": "Brighton",
+                "xg_home_team": "1.8",
+                "xg_away_team": "1.1"
+            },
+            {
+                "game_week": "19",
+                "score": "2\u20130",
+                "home_team": "Ipswich Town",
+                "away_team": "Chelsea",
+                "xg_home_team": "1.6",
+                "xg_away_team": "2.0"
+            },
+            {
+                "game_week": "19",
+                "score": "0\u20132",
+                "home_team": "Manchester Utd",
+                "away_team": "Newcastle Utd",
+                "xg_home_team": "0.8",
+                "xg_away_team": "1.9"
+            },
+            {
+                "game_week": "19",
+                "score": "1\u20133",
+                "home_team": "Brentford",
+                "away_team": "Arsenal",
+                "xg_home_team": "0.3",
+                "xg_away_team": "1.9"
+            }
+        ]
+    },
+    {
+        "rodada": "20",
+        "matchups": [
+            {
+                "game_week": "20",
+                "score": "1\u20132",
+                "home_team": "Tottenham",
+                "away_team": "Newcastle Utd",
+                "xg_home_team": "0.9",
+                "xg_away_team": "2.5"
+            },
+            {
+                "game_week": "20",
+                "score": "0\u20135",
+                "home_team": "Southampton",
+                "away_team": "Brentford",
+                "xg_home_team": "0.3",
+                "xg_away_team": "4.4"
+            },
+            {
+                "game_week": "20",
+                "score": "1\u20130",
+                "home_team": "Bournemouth",
+                "away_team": "Everton",
+                "xg_home_team": "1.8",
+                "xg_away_team": "0.7"
+            },
+            {
+                "game_week": "20",
+                "score": "1\u20131",
+                "home_team": "Crystal Palace",
+                "away_team": "Chelsea",
+                "xg_home_team": "1.1",
+                "xg_away_team": "1.2"
+            },
+            {
+                "game_week": "20",
+                "score": "4\u20131",
+                "home_team": "Manchester City",
+                "away_team": "West Ham",
+                "xg_home_team": "1.9",
+                "xg_away_team": "1.4"
+            },
+            {
+                "game_week": "20",
+                "score": "2\u20131",
+                "home_team": "Aston Villa",
+                "away_team": "Leicester City",
+                "xg_home_team": "1.4",
+                "xg_away_team": "0.4"
+            },
+            {
+                "game_week": "20",
+                "score": "1\u20131",
+                "home_team": "Brighton",
+                "away_team": "Arsenal",
+                "xg_home_team": "1.5",
+                "xg_away_team": "0.9"
+            },
+            {
+                "game_week": "20",
+                "score": "2\u20132",
+                "home_team": "Fulham",
+                "away_team": "Ipswich Town",
+                "xg_home_team": "2.2",
+                "xg_away_team": "1.5"
+            },
+            {
+                "game_week": "20",
+                "score": "2\u20132",
+                "home_team": "Liverpool",
+                "away_team": "Manchester Utd",
+                "xg_home_team": "2.7",
+                "xg_away_team": "1.0"
+            },
+            {
+                "game_week": "20",
+                "score": "0\u20133",
+                "home_team": "Wolves",
+                "away_team": "Nott'ham Forest",
+                "xg_home_team": "1.5",
+                "xg_away_team": "2.1"
+            }
+        ]
+    },
+    {
+        "rodada": "21",
+        "matchups": [
+            {
+                "game_week": "21",
+                "score": "2\u20132",
+                "home_team": "Brentford",
+                "away_team": "Manchester City",
+                "xg_home_team": "2.5",
+                "xg_away_team": "2.2"
+            },
+            {
+                "game_week": "21",
+                "score": "3\u20132",
+                "home_team": "West Ham",
+                "away_team": "Fulham",
+                "xg_home_team": "1.0",
+                "xg_away_team": "1.7"
+            },
+            {
+                "game_week": "21",
+                "score": "2\u20132",
+                "home_team": "Chelsea",
+                "away_team": "Bournemouth",
+                "xg_home_team": "2.5",
+                "xg_away_team": "1.2"
+            },
+            {
+                "game_week": "21",
+                "score": "1\u20131",
+                "home_team": "Nott'ham Forest",
+                "away_team": "Liverpool",
+                "xg_home_team": "0.3",
+                "xg_away_team": "2.0"
+            },
+            {
+                "game_week": "21",
+                "score": "0\u20131",
+                "home_team": "Everton",
+                "away_team": "Aston Villa",
+                "xg_home_team": "1.1",
+                "xg_away_team": "1.2"
+            },
+            {
+                "game_week": "21",
+                "score": "3\u20130",
+                "home_team": "Newcastle Utd",
+                "away_team": "Wolves",
+                "xg_home_team": "2.1",
+                "xg_away_team": "1.6"
+            },
+            {
+                "game_week": "21",
+                "score": "0\u20132",
+                "home_team": "Leicester City",
+                "away_team": "Crystal Palace",
+                "xg_home_team": "1.7",
+                "xg_away_team": "1.8"
+            },
+            {
+                "game_week": "21",
+                "score": "2\u20131",
+                "home_team": "Arsenal",
+                "away_team": "Tottenham",
+                "xg_home_team": "1.4",
+                "xg_away_team": "0.8"
+            },
+            {
+                "game_week": "21",
+                "score": "0\u20132",
+                "home_team": "Ipswich Town",
+                "away_team": "Brighton",
+                "xg_home_team": "0.3",
+                "xg_away_team": "1.0"
+            },
+            {
+                "game_week": "21",
+                "score": "3\u20131",
+                "home_team": "Manchester Utd",
+                "away_team": "Southampton",
+                "xg_home_team": "3.4",
+                "xg_away_team": "1.4"
+            }
+        ]
+    },
+    {
+        "rodada": "22",
+        "matchups": [
+            {
+                "game_week": "22",
+                "score": "1\u20134",
+                "home_team": "Newcastle Utd",
+                "away_team": "Bournemouth",
+                "xg_home_team": "0.8",
+                "xg_away_team": "2.0"
+            },
+            {
+                "game_week": "22",
+                "score": "0\u20132",
+                "home_team": "West Ham",
+                "away_team": "Crystal Palace",
+                "xg_home_team": "0.3",
+                "xg_away_team": "1.3"
+            },
+            {
+                "game_week": "22",
+                "score": "0\u20132",
+                "home_team": "Brentford",
+                "away_team": "Liverpool",
+                "xg_home_team": "0.7",
+                "xg_away_team": "3.4"
+            },
+            {
+                "game_week": "22",
+                "score": "0\u20132",
+                "home_team": "Leicester City",
+                "away_team": "Fulham",
+                "xg_home_team": "0.6",
+                "xg_away_team": "2.0"
+            },
+            {
+                "game_week": "22",
+                "score": "2\u20132",
+                "home_team": "Arsenal",
+                "away_team": "Aston Villa",
+                "xg_home_team": "1.3",
+                "xg_away_team": "1.0"
+            },
+            {
+                "game_week": "22",
+                "score": "1\u20133",
+                "home_team": "Manchester Utd",
+                "away_team": "Brighton",
+                "xg_home_team": "1.5",
+                "xg_away_team": "1.9"
+            },
+            {
+                "game_week": "22",
+                "score": "3\u20132",
+                "home_team": "Nott'ham Forest",
+                "away_team": "Southampton",
+                "xg_home_team": "1.8",
+                "xg_away_team": "0.9"
+            },
+            {
+                "game_week": "22",
+                "score": "3\u20132",
+                "home_team": "Everton",
+                "away_team": "Tottenham",
+                "xg_home_team": "1.8",
+                "xg_away_team": "1.1"
+            },
+            {
+                "game_week": "22",
+                "score": "0\u20136",
+                "home_team": "Ipswich Town",
+                "away_team": "Manchester City",
+                "xg_home_team": "0.5",
+                "xg_away_team": "3.0"
+            },
+            {
+                "game_week": "22",
+                "score": "3\u20131",
+                "home_team": "Chelsea",
+                "away_team": "Wolves",
+                "xg_home_team": "3.1",
+                "xg_away_team": "0.8"
+            }
+        ]
+    }
+]

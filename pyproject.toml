@@ -1,0 +1,30 @@
+[project]
+name = "bet-explorer-project"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Your Name",email = "you@example.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "openpyxl (>=3.1.5,<4.0.0)",
+    "pandas (>=2.2.3,<3.0.0)",
+    "python-levenshtein (>=0.27.1,<0.28.0)",
+    "fuzzywuzzy (>=0.18.0,<0.19.0)",
+    "ipython (>=9.1.0,<10.0.0)",
+    "aiometer (>=1.0.0,<2.0.0)",
+    "bs4 (>=0.0.2,<0.0.3)",
+    "httpx (>=0.28.1,<0.29.0)",
+    "trio (>=0.29.0,<0.30.0)",
+    "webdriver-manager (>=4.0.2,<5.0.0)",
+    "selenium (>=4.31.0,<5.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "bet_explorer_project", from = "src"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
