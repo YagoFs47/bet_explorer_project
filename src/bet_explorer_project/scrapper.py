@@ -72,7 +72,7 @@ class Bot:
 
     @classmethod
     def run_all(cls):
-        with open(BASE_DIR / "project_betxplorer" /  "urls.json", "r") as file:
+        with open(BASE_DIR / "bet_explorer_project" / "urls.json", "r") as file:
             json_data = json.load(file)
             for line in json_data["urls"]:
                 url_bextp, url_fbref = line.split(";")
@@ -175,7 +175,22 @@ class Bot:
                 pass
 
             except ValueError:
-                casa, empate, visitante = tr_pinnacle.text.split("\n")[-1].split("")
+                base = tr_pinnacle.text.split("\n")
+                if "Pinnacle" in base and len(base) != 2:
+                    #["Pinnacle", "a b", "c"]
+                    if base[1].split().__len__() > 1:
+                        casa, empate = base[1].split()
+                        visitante = base[2]
+                    #[Pinnacle, "a", "b c"]
+                    elif base[-1].split().__len__() > 1:
+                        empate, visitante = base[-1].split()
+                        casa = base[1]
+
+                else:
+                    #["Pinnacle", "a b c"]
+                    casa, empate, visitante = base[-1].split()
+
+                break
         
         #click no menu de odds na opção "over/under"
         await trio.sleep(2)
@@ -210,7 +225,6 @@ class Bot:
             matchup.under = data.get("under")
             matchup.mercado = data.get("mercado")
 
-        await trio.sleep(15)
         self._drop_page(page)
 
     def _gen_windows(self):
@@ -298,14 +312,14 @@ class Bot:
             self.all_matchups_for_round_fbref[int(data_matchup['game_week']) - 1]["matchups"].append(Matchup.from_json(data_matchup))
         
     def register_url(self, url, only_betxplorer=False):
-        with open(BASE_DIR / "project_betxplorer" /  "urls.json", "r") as file:
+        with open(BASE_DIR / "bet_explorer_project" /  "urls.json", "r") as file:
             json_data = json.load(file)
             if not only_betxplorer:
                 json_data["urls"].append(url)
             else:
                 json_data["urls_only_betxplorer"].append(url)
 
-        with open(BASE_DIR / "project_betxplorer" /  "urls.json", "w") as file:
+        with open(BASE_DIR / "bet_explorer_project" /  "urls.json", "w") as file:
             json.dump(json_data, file, indent=4)
 
     async def get_site_data(self, soup: BeautifulSoup) -> List[Matchup]:
@@ -406,11 +420,11 @@ class Bot:
         league_name = self.url.split("/")[5: 7]
         if not self.only_betexplorer:
             df = pd.DataFrame(self.df_dict)
-            df.to_excel(BASE_DIR / "project_betxplorer" / "ligas" / f"{'_'.join(league_name)}.xlsx")
+            df.to_excel(BASE_DIR / "bet_explorer_project" / "ligas" / f"{'_'.join(league_name)}.xlsx")
             self.register_url(f"{self.url};{self.url_fbref}")
         else:
             df = pd.DataFrame(self.df_dict_only_betexplorer)
-            df.to_excel(BASE_DIR / "project_betxplorer" / "ligas_only_betexplorer" / f"{'_'.join(league_name)}.xlsx")   
+            df.to_excel(BASE_DIR / "bet_explorer_project" / "ligas_only_betexplorer" / f"{'_'.join(league_name)}.xlsx")   
             self.register_url(f"{self.url}", self.only_betexplorer) 
 
 def set_new_url(only_betexplorer=False):
