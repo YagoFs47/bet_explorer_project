@@ -163,9 +163,12 @@ class Bot:
         #         break
         
         #NOVA SOLUÇÃO
+        curl = self.b.current_url.split("/")[-2]
         while True:
             try:
                 #PEGA A ULTIMA TR DA TABELA, OU SEJA A PINNACLE
+                #TESTE DE ATUALIZAÇÃO DO GITHUB
+                print(curl)
                 tr_pinnacle = self.b.find_elements(By.CSS_SELECTOR, "#best-odds-0 > tr")[-1]
                 print(tr_pinnacle.text.split("\n"))
                 casa, empate, visitante = tr_pinnacle.text.split("\n")[1:]
@@ -195,7 +198,6 @@ class Bot:
         #click no menu de odds na opção "over/under"
         await trio.sleep(2)
         self.b.switch_to.window(page)
-        curl = self.b.current_url.split("/")[-2]
         print(curl)
         self.b.execute_script(f"match_change_bettype_best(1, '{curl}', 'ou', 'football', false, this, 'br'); return false;")
 
@@ -215,6 +217,7 @@ class Bot:
             line_format_data = self.get_line_odd(odd, mercado.get("data-all-handicap"))
             if line_format_data:
                 mercados_analisados.append(line_format_data)
+        
         else:
             data = sorted(mercados_analisados, key=lambda dicionario: dicionario["result_calc"], reverse=False)[0]
             print(data)
